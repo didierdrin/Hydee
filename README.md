@@ -1,6 +1,9 @@
 # Hydee
 
-A new Flutter app where users can comment on other posts using AR capabilities
+A new Flutter app where users can comment on other posts using AR capabilities.
+
+## Get Files
+Download [ lib.zip ] and extract it. In there you'll find app's pages dart files and the main file 
 
 ## Done Issues
 
