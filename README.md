@@ -1,4 +1,4 @@
-# hydee
+# Hydee
 
 A new Flutter app where users can comment on other posts using AR capabilities
 
