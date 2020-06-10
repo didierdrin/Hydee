@@ -1,16 +1,10 @@
 # hydee
 
-A new Flutter project.
+A new Flutter app where users can comment on other posts using AR capabilities
 
-## Getting Started
+## Done Issues
 
-This project is a starting point for a Flutter application.
+The First part of the app works perfectly both front-end and its backend,
+Google firebase is used for Authentification which work for both [registration] and [sign in]
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
